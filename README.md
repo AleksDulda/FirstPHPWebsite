@@ -20,7 +20,7 @@ Bursa Technical University Introduction Film Review Website With PHP.
 ### XAMPP ile nasıl kullanılır?
 - xampp'ı çalıştırdıktan sonra php myadmin kısmına kendiniz bir database oluşturun. (örn: film_db)
 - dbstorage21360859025.sql dosyasında yazan kodları oluşturduğunuz database sql kod yazma yerine yapıştırıp çalıştırın. Bu sayede gerekli tablolar oluşmuş olacak.
-- Repoda olan .php uzantılı dosyları ve aynı dizine videoyu da htdocs klasörüne koyun ve database bağlanma kısımlarına 
- > $mysqli = mysqli_connect("localhost", "root", "", "film_db"); gibi değişiklikleri yaparsanız (varsa özelleştirdiğiniz username ve şifre girmeniz gerekir) kendi localinizde bu websitesini kullanabileceksiniz
+- Repoda olan .php uzantılı dosyları ve videoyu da htdocs klasörüne koyun ve database bağlanma kısımlarına 
+ * $mysqli = mysqli_connect("localhost", "root", "", "film_db"); gibi değişiklikleri yaparsanız (varsa özelleştirdiğiniz username ve şifre girmeniz gerekir) kendi localinizde bu websitesini kullanabileceksiniz
 
 
