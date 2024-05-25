@@ -6,8 +6,8 @@ Bursa Technical University Introduction Film Review Website With PHP.
 Bu website bir film değerlendirme sitesidir. Herhangi bir spesifik film için kullanılabilir. Bu örnekte BTÜ tanıtım filmi örnek olarak kullanılmıştır.
 
 ### Link
-Websitesine ulaşmak için: http://95.130.171.20/~st21360859025/index.php
-Website Tanıtım Videosu: https://www.youtube.com/watch?v=6WTjLSqeBX8
+-- Websitesine ulaşmak için: http://95.130.171.20/~st21360859025/index.php
+-- Website Tanıtım Videosu: https://www.youtube.com/watch?v=6WTjLSqeBX8
 
 ### Kullanım
 - Websitesine girildiğinde en başta bizi anasayfa karşılamakta ve anasayfada değerlendirme yapan kullanıcıların değerlendirmeleri gözükmekte.
